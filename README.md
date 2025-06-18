@@ -1,5 +1,7 @@
 # Feature Enhancement Analysis of Fundoscopic Images for Diabetic Retinopathy Classification
 
+![MATLAB](https://img.shields.io/badge/Language-MATLAB-blue.svg)
+
 ## 🔍 Project Overview
 
 This project explores how different preprocessing techniques can enhance fundoscopic images to improve the classification accuracy of diabetic retinopathy (DR) using Support Vector Machines (SVM). Six enhancement combinations were applied to a custom-labeled dataset of 831 fundus images, resulting in a significant boost in classification performance — with the best accuracy reaching **94.76%**.
@@ -46,7 +48,7 @@ Manual screening of retinal images is time-consuming, error-prone, and inaccessi
 
 ### 🔬 Visual Comparison: Hard Exudate Enhancement
 
-[Hard Exudate Enhancement](Images\enhancement_results.jpg)
+![Hard Exudate Enhancement](Images\enhancement_results.jpg)
 
 **Zoom in of the hard exudate lesion before and after preprocessing.**  
 (a) Original image. (b) Image enhanced by C1. (c) Image enhanced by C2. (d) Image enhanced by C3. (e) Image enhanced by C4. (f) Image enhanced by C5. (g) Image enhanced by C6.
